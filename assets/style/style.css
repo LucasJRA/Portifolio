@@ -1,0 +1,11 @@
+*{
+    padding: 0%;
+    margin:0%;
+}
+
+nav{
+    background-color: #053a00; 
+    position: fixed;
+    overflow: hidden;
+    width: 100%;
+}
